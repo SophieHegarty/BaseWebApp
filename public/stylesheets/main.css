@@ -1,10 +1,11 @@
 
 body {
-  background-color: #d0e4fe;
+  background-color: #E5E4E2;
   text-align: center;
 }
 
 h1 {
+  /*background-color: #726E6D;*/
   font-family: 'Lobster', cursive;
   color: #3333;
   margin-top: 50px;
